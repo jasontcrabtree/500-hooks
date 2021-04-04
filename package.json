@@ -1,5 +1,6 @@
 {
-  "name": "jtc-next-base",
+  "name": "500-hooks",
+  "description": "React Hooks as defined by a game of 500",
   "version": "0.1.0",
   "private": true,
   "scripts": {
